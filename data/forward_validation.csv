@@ -1,0 +1,7 @@
+model,E0_target,forward_success,forward_status,forward_reached_horizon,forward_terminal_distance,forward_max_reference_error,forward_pass,forward_tol
+linear,0.24999999999999992,True,horizon_reached,True,9.992700180374276e-08,3.409232803026982e-10,True,1e-06
+nonlinear,0.24999999999999975,True,horizon_reached,True,2.060509946972237e-07,1.6009467436337003e-07,True,1e-06
+linear,0.5,True,horizon_reached,True,1.0007288545863257e-07,3.3535069394487563e-10,True,1e-06
+nonlinear,0.4999999999999999,True,horizon_reached,True,1.0001495082992218e-07,7.001233641287022e-11,True,1e-06
+linear,0.7499999999999998,True,horizon_reached,True,9.986551130484004e-08,6.322146925147239e-10,True,1e-06
+nonlinear,0.75,True,horizon_reached,True,9.919616139359466e-08,4.161098617139149e-09,True,1e-06
